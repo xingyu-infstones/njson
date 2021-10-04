@@ -3,7 +3,7 @@ NJSON is a Go package that Unmarshal/Decode nested JSON data depend on provided 
 
 ## Installation
 ```bash
-$ go get -u github.com/m7shapan/njson
+$ go get -u github.com/xingyu-infstones/njson
 ```
 
 ## Example
